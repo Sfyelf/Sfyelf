@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hoang Nguyen 👋
 
-<!--
-**Sfyelf/Sfyelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Computer Networks student at VNU-UET, interested in DevOps, Cloud, Security, and Automation.
 
-Here are some ideas to get you started:
+## 🔧 Technical Focus
+- Linux server administration and networking
+- Docker-based lab environments
+- Load testing with k6
+- Vulnerability scanning with Nuclei
+- Network analysis with Wireshark
+- Basic cloud and IAM concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **k6 Load Testing Lab** – Simulated high-traffic scenarios and analyzed performance bottlenecks.
+- **Nuclei Jenkins Security Scan** – Built and tested custom Nuclei templates in an authorized lab.
+- **Linux Server Hardening** – Configured SSH access control, firewall rules, and basic server security.
+- **Wireshark Network Troubleshooting** – Analyzed TCP/IP traffic and documented connectivity issues.
+
+## 📫 Contact
+- Email: huyhoangnguyen5405@gmail.com
+- LinkedIn: add your LinkedIn link here
