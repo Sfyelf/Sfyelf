@@ -18,4 +18,4 @@ I'm a third-year Computer Networks student at VNU-UET, interested in DevOps, Clo
 
 ## 📫 Contact
 - Email: huyhoangnguyen5405@gmail.com
-- LinkedIn: add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/huy-ho%C3%A0ng-nguy%E1%BB%85n-40b257358
